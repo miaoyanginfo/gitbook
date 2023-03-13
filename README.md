@@ -1,5 +1,8 @@
 ---
 description: Across the Great Wall we can reach every corner in the world.
+cover: >-
+  https://images.unsplash.com/photo-1677462128588-87d08d8e3ffb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg2OTc3NTI&ixlib=rb-4.0.3&q=80
+coverY: -298
 ---
 
 # 🔥 越过长城，走向世界
